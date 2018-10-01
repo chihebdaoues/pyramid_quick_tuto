@@ -1,2 +1,2 @@
 # Pyramid
-**the pyramid beginners tutorial**
+**the pyramid beginner's tutorial**
